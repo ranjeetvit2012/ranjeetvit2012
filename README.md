@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS, CI/CD , EC2, ECS , Kubernetes**
 
-- 💬 Ask me about **React, Node.js, TypeScript, PostgreSQL, Prisma, Docker, MySQL, AWS, Kubernetes, mongoose, mongodb, WebSocket, Apache Kafka
+- 💬 Ask me about **React, Node.js, TypeScript, PostgreSQL, Prisma, Docker, MySQL, AWS, Kubernetes, mongoose, mongodb, websocket ,Socket.IO, Apache Kafka
 , Redis**
 
 - 📫 How to reach me **ranjeetvit2012@gmail.com,ranjeetvit@gmail.com**
