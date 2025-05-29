@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Currently working on an Ads Management Platform (Facebook Ads, Google Ads, Snapchat Ads, Instagram Ads)**
+- 🔭 I’m currently working on **Currently working on an Ads Management Platform (Facebook Ads(Meta), Google Ads, Snapchat Ads, Instagram Ads)**
 
 - 🌱 I’m currently learning **AWS, CI/CD , EC2, ECS , Kubernetes**
 
